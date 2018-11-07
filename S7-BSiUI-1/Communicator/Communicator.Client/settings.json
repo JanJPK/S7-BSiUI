@@ -1,0 +1,26 @@
+[
+  {
+    "Key": "username",
+    "Value": "user1"
+  },
+  {
+    "Key": "address",
+    "Value": "127.0.0.1"
+  },
+  {
+    "Key": "port",
+    "Value": "8001"
+  },
+  {
+    "Key": "encryption",
+    "Value": "none"
+  },
+  {
+    "Key": "logging",
+    "Value": "true"
+  },
+  {
+    "Key": "buffersize",
+    "Value": "4096"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Key": "port",
+    "Value": "8001"
+  },
+  {
+    "Key": "logging",
+    "Value": "true"
+  },
+  {
+    "Key": "buffersize",
+    "Value": "4096"
+  }
+]
