@@ -47,8 +47,8 @@ Połączenie może zostać zakończone przez przerwanie (Ctrl + C).
 ## Implementacja
 ### Architektura
 Projekt jest podzielony na cztery cześci:
-1. [Communicator.Client](Communicator/Communicator/Communicator.Client) - aplikacja konsolowa klienta, logika komunikacji specyficzna dla klienta
-2. [Communicator.Server](Communicator/Communicator/Communicator.Server) - aplikacja konsolowa serwera, logika komunikacji specyficzna dla serwera
-3. [Communicator.Common](Communicator/Communicator/Communicator.Common) - biblioteka zawierająca abstrakcyjne klasy służace do komunikacji oraz klasy związane z szyfrowaniem
-4. [Communicator.Tests](Communicator/Communicator/Communicator.Tests) - testy jednostkowe (XUnit) sprawdzające poprawność szyfrowania oraz wymiany/generacji kluczy DH
+1. [Communicator.Client](Communicator/Communicator.Client) - aplikacja konsolowa klienta, logika komunikacji specyficzna dla klienta
+2. [Communicator.Server](Communicator/Communicator.Server) - aplikacja konsolowa serwera, logika komunikacji specyficzna dla serwera
+3. [Communicator.Common](Communicator/Communicator.Common) - biblioteka zawierająca abstrakcyjne klasy służace do komunikacji oraz klasy związane z szyfrowaniem
+4. [Communicator.Tests](Communicator/Communicator.Tests) - testy jednostkowe (XUnit) sprawdzające poprawność szyfrowania oraz wymiany/generacji kluczy DH
 
